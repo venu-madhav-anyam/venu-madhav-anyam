@@ -32,11 +32,8 @@ I enhanced my skills in **C & C++ programming** and **Microcontroller developmen
 - **Car Blackbox** (Sept 2024):  
   Developed a **car blackbox system** using **Embedded C** and the **PIC18F4580** microcontroller to monitor and record critical vehicle parameters like speed and time. The system stores data for post-incident review.
 
-- **GSM-based Home Security System** (Date):  
-  Designed a **GSM-based home security system** using the **8051 microcontroller** and **Embedded C**, integrating sensors like **PIR**, **door/window contacts**, and **gas sensors** to send SMS alerts for intrusion detection.
-
 ## 🌱 Current Focus:
-I’m focused on securing a **full-time position** where I can contribute to innovative **Embedded Systems** projects and continue to refine my skills in **Microcontroller development**, **C programming**, and **Embedded Systems design**.
+I’m focused on securing a **full-time position** where I can contribute to innovative **Embedded Systems** projects and continue to refine my skills in **Microcontroller development**, **C programming**.
 
 ## 🎮 Fun Fact:
 When I’m not coding, I enjoy watching **sports**, experimenting with **Indian cooking**, and exploring new **technologies**. I’m always up for a challenge and love **learning something new**! 😄
